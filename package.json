@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@antwiib001/ullam-atque-sequi",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,19 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/antwiib001/ullam-atque-sequi.git"
   },
   "dependencies": {
+    "@antwiib001/aspernatur-adipisci-doloremque": "^1.0.0",
+    "@antwiib001/consequatur-qui-incidunt": "^1.0.0",
+    "@antwiib001/explicabo-debitis-tempore": "^1.0.0",
+    "@antwiib001/iure-ipsa-deserunt": "^1.0.0",
+    "@antwiib001/modi-corporis-laudantium": "^1.0.0",
+    "@antwiib001/natus-et-unde": "^1.0.0",
+    "@antwiib001/nemo-eveniet-quia": "^1.0.0",
+    "@antwiib001/nobis-assumenda-velit": "^1.0.0",
+    "@antwiib001/porro-quos-assumenda": "^1.0.0",
+    "@antwiib001/quae-dolores-maxime": "^1.0.0",
+    "@antwiib001/sunt-ullam-numquam": "^1.0.0"
   }
 }
